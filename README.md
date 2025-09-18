@@ -1,11 +1,11 @@
-# 🌊 Water Pollution Detector – Microplastic Classification
+#  Water Pollution Detector – Microplastic Classification
 
 This project detects **microplastics in water** using **hyperspectral imaging** and **machine learning**.  
 It takes spectral cube data (ENVI `.hdr` + `.dat` files), labels (`.ilab`), and masks (`.imsk`), then trains a classifier to identify whether each pixel contains microplastic contamination or not.
 
 ---
 
-## 📂 Project Structure
+##Project Structure
 
 water-pollution-detector/
 │
@@ -34,7 +34,7 @@ Copy code
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 
 1. **Load Data**
    - Reads hyperspectral cube (`.hdr` + `.dat`)
@@ -56,7 +56,7 @@ Copy code
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 Clone the repository:
 
